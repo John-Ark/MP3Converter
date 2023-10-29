@@ -4,3 +4,4 @@
  For the most part it works but there is a strange issue I haven't resolved.
 
  It downloads with little issue but on some videos there are issues with "encoding", so I decided to open that as an issue.
+(Sidenote: Also first time opening an issue! Hope I did everything right.)
